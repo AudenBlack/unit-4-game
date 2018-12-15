@@ -1,0 +1,28 @@
+#title {
+    font-size: 28px;
+    margin: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkred;
+}
+
+#instructions {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+    background-color: lightgreen;
+    padding-bottom: 20px;
+}
+
+#compNum {
+    background-color: lightblue;
+    font: 20px, gray;
+}
+
+#buttons {
+    background-color: lightgray;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
